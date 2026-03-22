@@ -125,7 +125,7 @@ Get Applications (Recruiter)
 
 GET /applications?job_id=12
 
-# Recruiter Dashboard
+
 
 
 
